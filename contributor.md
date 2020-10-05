@@ -13,3 +13,9 @@ _Dont change until this_
 - Place: Faridabad, India
 - Bio: Aspiring data analyst $$ ML & AI Enthusiast $$ Open
 - GitHub: Mrinmoy99(https://github.com/Mrinmoy99/)
+
+##### Name: minnonymous(https://github.com/minnonymous)
+
+- Place: India
+- Bio: L0st
+- GitHub: minnonymous(https://github.com/minnonymous)
